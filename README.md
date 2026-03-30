@@ -18,7 +18,7 @@
   <rect width="800" height="200" rx="16" fill="url(#bgGrad)"/>
   <rect x="0" y="190" width="800" height="3" fill="url(#lineGrad)"/>
   <text x="400" y="95" font-family="Space Grotesk, sans-serif" font-weight="300" font-size="58" fill="#ffffff" text-anchor="middle" letter-spacing="8">Tiago Borges</text>
-  <text x="400" y="145" font-family="Space Grotesk, sans-serif" font-weight="300" font-size="18" fill="#9B30FF" text-anchor="middle" letter-spacing="3">Estudante de ADS • Estagiário na Lerian</text>
+  <text x="400" y="145" font-family="Space Grotesk, sans-serif" font-weight="300" font-size="18" fill="#9B30FF" text-anchor="middle" letter-spacing="3">Estudante de ADS • Dev Estagiário na Lerian</text>
 </svg>
 
 </div>
@@ -31,7 +31,7 @@
 
 ```
 🎓  Estudante de Análise e Desenvolvimento de Sistemas
-💼  Estagiário na Lerian
+💼  Desenvolvedor Estagiário na Lerian
 ⚡  Transformando ideias em código
 🚀  Sempre aprendendo algo novo
 ```
@@ -73,16 +73,6 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagostnz&theme=transparent&background=0d0d0d&ring=6A0DAD&fire=9B30FF&currStreakLabel=6A0DAD&sideLabels=6A0DAD&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=6A0DAD&border_radius=10"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribuições
-
-<img src="https://raw.githubusercontent.com/tiagostnz/tiagostnz/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
