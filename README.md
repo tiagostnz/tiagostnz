@@ -12,22 +12,12 @@
 
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="700"/>
-</div>
-
-<div align="center">
-
-![line](https://readme-typing-svg.demolab.com?font=monospace&size=1&color=F5C518&center=true&vCenter=true&width=800&height=6&lines=_)
-
-</div>
-
 <br/>
 
 <div align="center">
 
 ```
-FREEDOM AT THE CORE 
+FREEDOM AT THE CORE — DEVELOPER BY DESIGN
 ```
 
 </div>
@@ -73,16 +63,6 @@ FREEDOM AT THE CORE
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagostnz&theme=transparent&background=000000&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=F5C518&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=F5C518&border_radius=0"/>
-
-</div>
-
----
-
-<div align="center">
-
-### CONTRIBUTIONS
-
-<img src="https://raw.githubusercontent.com/tiagostnz/tiagostnz/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
