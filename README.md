@@ -1,10 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&text=TIAGO+BORGES&fontSize=62&fontColor=FFFFFF&fontAlignY=45&desc=Estudante+de+ADS+%E2%80%A2+Dev+Estagi%C3%A1rio+%40+Lerian&descSize=16&descColor=F5C518&descAlignY=68&animation=fadeIn"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F5C518&height=3&section=header"/>
+</div>
+
+<div align="center">
+
+![line](https://readme-typing-svg.demolab.com?font=monospace&size=1&color=F5C518&center=true&vCenter=true&width=800&height=6&lines=_)
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="700"/>
+</div>
+
+<div align="center">
+
+![line](https://readme-typing-svg.demolab.com?font=monospace&size=1&color=F5C518&center=true&vCenter=true&width=800&height=6&lines=_)
 
 </div>
 
@@ -13,7 +27,7 @@
 <div align="center">
 
 ```
-FREEDOM AT THE CORE — DEVELOPER BY DESIGN
+FREEDOM AT THE CORE 
 ```
 
 </div>
@@ -92,5 +106,10 @@ FREEDOM AT THE CORE — DEVELOPER BY DESIGN
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=F5C518&height=3&section=footer"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40&section=footer"/>
+<div align="center">
+
+![line](https://readme-typing-svg.demolab.com?font=monospace&size=1&color=F5C518&center=true&vCenter=true&width=800&height=6&lines=_)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=30"/>
