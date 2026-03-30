@@ -1,6 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Tiago+Borges&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome+to+my+profile!&descAlignY=60&descAlign=50" />
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;700&amp;display=swap');
+    </style>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a0a2e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6A0DAD;stop-opacity:0" />
+      <stop offset="50%" style="stop-color:#6A0DAD;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6A0DAD;stop-opacity:0" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" rx="16" fill="url(#bgGrad)"/>
+  <rect x="0" y="190" width="800" height="3" fill="url(#lineGrad)"/>
+  <text x="400" y="95" font-family="Space Grotesk, sans-serif" font-weight="300" font-size="58" fill="#ffffff" text-anchor="middle" letter-spacing="8">Tiago Borges</text>
+  <text x="400" y="145" font-family="Space Grotesk, sans-serif" font-weight="300" font-size="18" fill="#9B30FF" text-anchor="middle" letter-spacing="3">Estudante de ADS • Estagiário na Lerian</text>
+</svg>
 
 </div>
 
@@ -45,15 +64,15 @@
 
 ### 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagosntz&show_icons=true&theme=transparent&title_color=6A0DAD&icon_color=6A0DAD&text_color=ffffff&bg_color=0d0d0d&border_color=6A0DAD&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagostnz&show_icons=true&theme=transparent&title_color=6A0DAD&icon_color=6A0DAD&text_color=ffffff&bg_color=0d0d0d&border_color=6A0DAD&border_radius=10"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosntz&layout=compact&theme=transparent&title_color=6A0DAD&text_color=ffffff&bg_color=0d0d0d&border_color=6A0DAD&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagostnz&layout=compact&theme=transparent&title_color=6A0DAD&text_color=ffffff&bg_color=0d0d0d&border_color=6A0DAD&border_radius=10"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagosntz&theme=transparent&background=0d0d0d&ring=6A0DAD&fire=9B30FF&currStreakLabel=6A0DAD&sideLabels=6A0DAD&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=6A0DAD&border_radius=10"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagostnz&theme=transparent&background=0d0d0d&ring=6A0DAD&fire=9B30FF&currStreakLabel=6A0DAD&sideLabels=6A0DAD&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=6A0DAD&border_radius=10"/>
 
 </div>
 
@@ -63,7 +82,7 @@
 
 ### 🐍 Contribuições
 
-<img src="https://raw.githubusercontent.com/tiagosntz/tiagosntz/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/tiagostnz/tiagostnz/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -81,6 +100,22 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer"/>
+<svg width="800" height="60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0a0a0a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a0a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0a0a0a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="lineGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6A0DAD;stop-opacity:0" />
+      <stop offset="50%" style="stop-color:#6A0DAD;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6A0DAD;stop-opacity:0" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="60" rx="0" fill="url(#footerGrad)"/>
+  <rect x="0" y="0" width="800" height="2" fill="url(#lineGrad2)"/>
+  <text x="400" y="38" font-family="Space Grotesk, sans-serif" font-weight="300" font-size="14" fill="#6A0DAD" text-anchor="middle" letter-spacing="4">made with 💜 by tiagostnz</text>
+</svg>
 
 </div>
