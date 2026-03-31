@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=3"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&text=TIAGO+BORGES&fontSize=62&fontColor=FFFFFF&fontAlignY=45&desc=Estudante+de+ADS+%E2%80%A2+Dev+Estagi%C3%A1rio+%40+Lerian&descSize=16&descColor=F5C518&descAlignY=68&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F5C518&height=200&section=header&text=TIAGO+BORGES&fontSize=62&fontColor=000000&fontAlignY=38&desc=Estudante+de+ADS+%E2%80%A2+Dev+Estagi%C3%A1rio+%E2%80%A2+Lerian&descSize=16&descColor=000000&descAlignY=58&animation=fadeIn"/>
 
 </div>
 
@@ -54,9 +52,9 @@ FREEDOM AT THE CORE — DEVELOPER BY DESIGN
 
 ### GITHUB STATS
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagostnz&show_icons=true&theme=transparent&title_color=F5C518&icon_color=F5C518&text_color=ffffff&bg_color=000000&border_color=F5C518&border_radius=0"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tiagostnz&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=F5C518&icon_color=F5C518&text_color=ffffff&bg_color=000000&border_color=F5C518&border_radius=0" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagostnz&layout=compact&theme=transparent&title_color=F5C518&text_color=ffffff&bg_color=000000&border_color=F5C518&border_radius=0"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tiagostnz&layout=compact&langs_count=6&theme=transparent&title_color=F5C518&text_color=ffffff&bg_color=000000&border_color=F5C518&border_radius=0" />
 
 </div>
 
@@ -92,4 +90,4 @@ FREEDOM AT THE CORE — DEVELOPER BY DESIGN
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=30"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F5C518&height=120&section=footer"/>
