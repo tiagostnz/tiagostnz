@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5C518&height=200&section=header&text=TIAGO+BORGES&fontSize=62&fontColor=000000&fontAlignY=38&desc=Estudante+de+ADS+%E2%80%A2+Dev+Estagi%C3%A1rio+%E2%80%A2+Lerian&descSize=16&descColor=000000&descAlignY=58&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=220&section=header&text=TIAGO+BORGES&fontSize=62&fontColor=FFFFFF&fontAlignY=40&desc=Estudante+de+ADS+%E2%80%A2+Dev+Estagi%C3%A1rio+%E2%80%A2+Lerian&descSize=15&descColor=F5C518&descAlignY=62&animation=fadeIn&customColorList=0,2,2,2,2"/>
 
 </div>
 
@@ -90,4 +90,4 @@ FREEDOM AT THE CORE — DEVELOPER BY DESIGN
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5C518&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=120&section=footer&customColorList=0,2,2,2,2"/>
