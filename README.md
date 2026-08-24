@@ -50,6 +50,10 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Dev Estagiário 
 
 <img width="480" src="https://streak-stats.demolab.com?user=tiagostnz&theme=transparent&background=050308&ring=8B5CF6&fire=8B5CF6&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7C7A85&border=6D28D9&border_radius=14" alt="Sequência de contribuições" />
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/tiagostnz/tiagostnz/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Cobra animada comendo o gráfico de contribuições do GitHub" />
+
 </div>
 
 <br/>
