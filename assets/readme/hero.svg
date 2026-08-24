@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="340" viewBox="0 0 1200 340"
+     role="img" aria-labelledby="hero-title hero-desc" xml:space="preserve">
+  <title id="hero-title">Tiago Borges</title>
+  <desc id="hero-desc">Terminal simulando: whoami, Tiago Borges, cat cargo.txt, estudante ADS, dev front-end, Lerian.</desc>
+
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6D28D9" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#6D28D9" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="340" rx="24" fill="#050308"/>
+  <rect width="1200" height="340" rx="24" fill="url(#glow)"/>
+
+  <g id="terminal-window" transform="translate(60 40)">
+    <rect width="1080" height="260" rx="16" fill="#0D0912" stroke="#6D28D9" stroke-opacity="0.45" stroke-width="1.5"/>
+
+    <path d="M0 16 V0 H1064 A16 16 0 0 1 1080 16 V40 H0 Z" fill="#120B1C"/>
+    <line x1="0" y1="40" x2="1080" y2="40" stroke="#6D28D9" stroke-opacity="0.25" stroke-width="1"/>
+
+    <circle cx="28" cy="20" r="6" fill="#6D28D9"/>
+    <circle cx="48" cy="20" r="6" fill="#8B5CF6" opacity="0.85"/>
+    <circle cx="68" cy="20" r="6" fill="#C4B5FD" opacity="0.7"/>
+    <text x="540" y="25" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#7C7A85">tiago@lerian:~</text>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20">
+      <g id="line-1">
+        <text x="40" y="94"><tspan fill="#6D28D9">$</tspan><tspan fill="#F5F3FF"> whoami</tspan></text>
+      </g>
+      <g id="line-2">
+        <text x="40" y="128" fill="#C4B5FD">Tiago Borges</text>
+      </g>
+      <g id="line-3">
+        <text x="40" y="162"><tspan fill="#6D28D9">$</tspan><tspan fill="#F5F3FF"> cat cargo.txt</tspan></text>
+      </g>
+      <g id="line-4">
+        <text x="40" y="196" fill="#C4B5FD">&gt; estudante ADS · dev front-end · Lerian</text>
+      </g>
+      <g id="line-5">
+        <text x="40" y="230"><tspan fill="#6D28D9">$</tspan></text>
+        <rect id="cursor-block" x="58" y="214" width="11" height="20" fill="#C4B5FD"/>
+      </g>
+    </g>
+  </g>
+</svg>

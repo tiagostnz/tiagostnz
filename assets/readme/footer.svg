@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="50" viewBox="0 0 1200 50" role="img" aria-labelledby="t d" xml:space="preserve">
+  <title id="t">Encerramento</title>
+  <desc id="d">Linha decorativa de encerramento com marca de prompt de terminal.</desc>
+  <defs>
+    <linearGradient id="fadeLeft" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6D28D9" stop-opacity="0"/>
+      <stop offset="1" stop-color="#6D28D9" stop-opacity="0.55"/>
+    </linearGradient>
+    <linearGradient id="fadeRight" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6D28D9" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#6D28D9" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="50" fill="#050308"/>
+  <line x1="60" y1="25" x2="565" y2="25" stroke="url(#fadeLeft)" stroke-width="1.5"/>
+  <line x1="635" y1="25" x2="1140" y2="25" stroke="url(#fadeRight)" stroke-width="1.5"/>
+  <text x="600" y="31" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#C4B5FD">$ exit</text>
+</svg>

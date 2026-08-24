@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0D0D0D&height=220&section=header&text=TIAGO%20BORGES&fontSize=62&fontColor=FFFFFF&fontAlignY=40&desc=Estudante%20de%20ADS%20%E2%80%A2%20Dev%20Estagi%C3%A1rio%20%E2%80%A2%20Front-end%20em%20evolu%C3%A7%C3%A3o&descSize=15&descColor=F5C518&descAlignY=62&animation=fadeIn" alt="Header Tiago Borges" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=F5C518&center=true&vCenter=true&width=850&lines=Criando+interfaces+modernas+e+funcionais;Estudando+React%2C+TypeScript+e+boas+pr%C3%A1ticas;Evoluindo+um+commit+de+cada+vez" alt="Texto animado" />
+<img src="./assets/readme/hero.gif" width="100%" alt="Terminal simulando: whoami, tiago borges, cat cargo.txt, estudante ADS, dev front-end, Lerian" />
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### SOBRE MIM
+<img src="./assets/readme/section-sobre.svg" width="100%" alt="Sobre mim" />
+
+<br/><br/>
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Dev Estagiário na Lerian**, com foco atual em **front-end**, interfaces modernas e evolução constante em desenvolvimento web.
 
@@ -20,60 +20,19 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Dev Estagiário 
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### STACKS
+<img src="./assets/readme/section-stacks.svg" width="100%" alt="Stacks" />
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,next,python,java,git,github,vscode&theme=dark" alt="JavaScript, TypeScript, HTML, CSS, React, Next.js, Python, Java, Git, GitHub e VS Code" />
 
-</div>
-
-<br/>
-
-<div align="center">
-
-### TECNOLOGIAS QUE MAIS USO
-
-| Tecnologia | Uso atual |
-|:---:|:---:|
-| JavaScript / TypeScript | ![90%](https://img.shields.io/badge/90%25-000000?style=for-the-badge&labelColor=000000&color=F5C518) |
-| React / Next.js | ![85%](https://img.shields.io/badge/85%25-000000?style=for-the-badge&labelColor=000000&color=F5C518) |
-| HTML / CSS | ![80%](https://img.shields.io/badge/80%25-000000?style=for-the-badge&labelColor=000000&color=F5C518) |
-| Python | ![55%](https://img.shields.io/badge/55%25-000000?style=for-the-badge&labelColor=000000&color=F5C518) |
-| Java | ![45%](https://img.shields.io/badge/45%25-000000?style=for-the-badge&labelColor=000000&color=F5C518) |
-
-</div>
-
----
-
-<div align="center">
-
-### GITHUB STATS
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tiagostnz&theme=github_dark" alt="Resumo do perfil GitHub" />
-
 <br/><br/>
 
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tiagostnz&theme=github_dark" alt="Estatísticas do GitHub" />
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tiagostnz&theme=github_dark" alt="Linguagens por repositório" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=tiagostnz&theme=transparent&background=000000&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=F5C518&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&border=F5C518&border_radius=0" alt="Sequência de contribuições" />
-
-</div>
-
----
-
-<div align="center">
-
-### CONTATO
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=F5C518)](https://www.linkedin.com/in/tiago-borges-2251933a6/)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=F5C518)](https://instagram.com/tiagostnz)
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=F5C518)](mailto:borgesdossantost0@gmail.com)
+<img src="./assets/readme/proficiency.svg" width="100%" alt="JavaScript e TypeScript 90%, React e Next.js 85%, HTML e CSS 80%, Python 55%, Java 45%" />
 
 </div>
 
@@ -81,12 +40,42 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Dev Estagiário 
 
 <div align="center">
 
-```txt
-FREEDOM AT THE CORE — DEVELOPER BY DESIGN
-```
+<img src="./assets/readme/section-stats.svg" width="100%" alt="GitHub stats" />
+
+<br/><br/>
+
+<img width="480" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tiagostnz&theme=github_dark&bg_color=050308&title_color=C4B5FD&text_color=F5F3FF&icon_color=8B5CF6&border_color=6D28D9&animation=draw" alt="Linguagens mais usadas por repositório" />
+
+<br/><br/>
+
+<img width="480" src="https://streak-stats.demolab.com?user=tiagostnz&theme=transparent&background=050308&ring=8B5CF6&fire=8B5CF6&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7C7A85&border=6D28D9&border_radius=14" alt="Sequência de contribuições" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="./assets/readme/section-contato.svg" width="100%" alt="Contato" />
+
+<br/><br/>
+
+[![LinkedIn](./assets/readme/contact-linkedin.svg)](https://www.linkedin.com/in/tiago-borges-2251933a6/)
+[![Instagram](./assets/readme/contact-instagram.svg)](https://instagram.com/tiagostnz)
+[![Email](./assets/readme/contact-email.svg)](mailto:borgesdossantost0@gmail.com)
+
+</div>
+
+<br/>
+
+<img src="./assets/readme/footer.svg" width="100%" alt="Linha de encerramento" />
+
+<div align="center">
+
+<sub><i>"A verdadeira arte é só um reflexo dos sentimentos que quem a contempla."</i></sub>
+
+<br/>
 
 <sub>© tiagostnz · powered by <a href="https://lerian.studio">lerian</a></sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0D0D0D&height=120&section=footer" alt="Footer" />
